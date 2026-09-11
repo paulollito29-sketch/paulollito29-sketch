@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Crafting+Scalable+Backends+%26+Cloud+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Modern+Full-Stack+Web+Architectures;TypeScript+%7C+Next.js+%7C+Astro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Crafting+Scalable+Backends+%26+Cloud+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Modern+Full-Stack+Web+Architectures;Angular+%7C+Next.js+%7C+Astro+%7C+TypeScript)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ const engineer = {
   role: "Full Stack Software Engineer",
   location: "Lima, Perú 🇵🇪",
   primaryFocus: ["Spring Boot Microservices", "Modern Full-Stack Applications"],
-  coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Next.js", "Astro", "Docker"],
+  coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Docker"],
   architectureStyle: "Clean Architecture, Event-Driven & Scalable REST APIs",
   interests: ["Cloud Architecture", "Performance Optimization", "Scalable Systems"]
 };
@@ -47,7 +47,7 @@ const engineer = {
 #### 🚀 Frontend & Ecosistema Web
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,tailwind&theme=dark" alt="Frontend" />
   </a>
 </p>
 
