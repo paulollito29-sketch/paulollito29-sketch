@@ -18,7 +18,7 @@ const engineer = {
   role: "Full Stack Software Engineer",
   location: "Lima, Perú 🇵🇪",
   primaryFocus: ["Spring Boot Microservices", "Modern Full-Stack Applications"],
-  coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Docker"],
+  coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Vite", "Docker"],
   architectureStyle: "Clean Architecture, Event-Driven & Scalable REST APIs",
   interests: ["Cloud Architecture", "Performance Optimization", "Scalable Systems"]
 };
@@ -47,7 +47,7 @@ const engineer = {
 #### 🚀 Frontend & Ecosistema Web
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,tailwind,vite&theme=dark" alt="Frontend" />
   </a>
 </p>
 
