@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:6366f1,100:00e5ff&height=220&section=header&text=Paulo%20Espinoza&fontSize=70&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=58&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:38bdf8,50:818cf8,100:c084fc&height=220&section=header&text=Paulo%20Espinoza&fontSize=70&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Crafting+Scalable+Backends+%26+Cloud+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Modern+Full-Stack+Web+Architectures;Angular+%7C+Next.js+%7C+Astro+%7C+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Systems+Engineer+%7C+Full+Stack+Developer;Spec-Driven+Development+(SDD)+%26+Architecture;AI-Assisted+Software+Engineering;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Angular)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,10 +17,11 @@ const engineer = {
   name: "Paulo Espinoza",
   role: "Systems Engineer & Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
+  methodology: ["Spec-Driven Development (SDD)", "AI-Assisted Software Engineering"],
   primaryFocus: ["Spring Boot Microservices", "Modern Full-Stack Applications"],
   coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Vite", "Docker"],
   architectureStyle: "Clean Architecture, Event-Driven & Scalable REST APIs",
-  interests: ["Cloud Architecture", "Performance Optimization", "Scalable Systems"]
+  interests: ["Cloud Systems", "AI Workflows", "Architecture Performance"]
 };
 ```
 
@@ -29,6 +30,13 @@ const engineer = {
 ### 🛠️ Tech Arsenal & Stack
 
 <div align="center">
+
+#### 🤖 Metodología & Desarrollo Asistido por IA
+<p align="center">
+  <img src="https://img.shields.io/badge/Methodology-SDD_(Spec--Driven_Development)-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" alt="SDD" />
+  <img src="https://img.shields.io/badge/Engineering-AI--Assisted_Development-818CF8?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Assisted" />
+  <img src="https://img.shields.io/badge/Workflow-GitHub_Copilot_%26_LLMs-34D399?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+</p>
 
 #### 💻 Lenguajes & Core
 <p align="center">
@@ -110,5 +118,5 @@ const engineer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:6366f1,100:00e5ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:38bdf8,50:818cf8,100:c084fc&height=120&section=footer" />
 </div>
