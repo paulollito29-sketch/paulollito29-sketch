@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:6366f1,100:00e5ff&height=220&section=header&text=Paulo%20Espinoza&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descFontSize=20&descAlignY=58&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,40:6366f1,100:00e5ff&height=220&section=header&text=Paulo%20Espinoza&fontSize=70&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=58&fontColor=fff" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ```javascript
 const engineer = {
   name: "Paulo Espinoza",
-  role: "Full Stack Software Engineer",
+  role: "Systems Engineer & Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
   primaryFocus: ["Spring Boot Microservices", "Modern Full-Stack Applications"],
   coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Vite", "Docker"],
