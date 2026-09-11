@@ -39,6 +39,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Principal |
+| :--- | :--- | :--- |
+| 🌿 [**EcoCommute**](https://github.com/paulollito29-sketch/green-commute) | Plataforma de movilidad sostenible, cálculo de huella de carbono $CO_2$, rutas inteligentes y gamificación. | `Java` `Spring Boot` `Leaflet` `GCP` |
+| 🛍️ [**Trazzo**](https://github.com/paulollito29-sketch/trazzo) | Marketplace de confección textil B2B y B2C con arquitectura ultrarrápida. | `Astro` `Tailwind CSS` `TypeScript` |
+| 🛒 [**Vault Vintage (Backend)**](https://github.com/paulollito29-sketch/la-cachina-online-backend) | API REST para comercio electrónico con gestión de catálogo, pedidos y persistencia. | `Spring Boot` `MariaDB` `Java` |
+| 🎨 [**Vault Vintage (Frontend)**](https://github.com/paulollito29-sketch/la-cachina-online-frontend) | Tienda online interactiva con experiencia de usuario fluida y diseño moderno. | `Next.js` `React` `Tailwind CSS` |
+| 🏢 [**KAIROS Asistencia**](https://github.com/paulollito29-sketch/kairos-asistencia) | Sistema de control de asistencia para restaurantes con soporte PWA. | `Spring Boot` `Java` `PWA` |
+| 🌐 [**LimaSync Solutions**](https://github.com/paulollito29-sketch/limasync-solutions) | Landing web para consultoría y automatización de software a medida. | `Next.js` `TypeScript` `Tailwind CSS` |
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,6 +61,17 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulollito29-sketch&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Conéctate Conmigo
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulollito29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulollito29-sketch)
 
 </div>
 
