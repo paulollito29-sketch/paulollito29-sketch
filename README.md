@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Systems+Engineer+%7C+Full+Stack+Developer;Spec-Driven+Development+(SDD)+%26+Architecture;AI-Assisted+Software+Engineering;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Angular)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Systems+Engineer+%7C+Full+Stack+Developer;Hexagonal+Architecture+%26+Java+21;DDD+%7C+Spring+Boot+3+%7C+PostgreSQL;Spec-Driven+Development+(SDD)+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,11 +17,11 @@ const engineer = {
   name: "Paulo Espinoza",
   role: "Systems Engineer & Full Stack Developer",
   location: "Lima, Perú 🇵🇪",
-  methodology: ["Spec-Driven Development (SDD)", "AI-Assisted Software Engineering"],
-  primaryFocus: ["Spring Boot Microservices", "Modern Full-Stack Applications"],
-  coreStack: ["Java", "Spring Boot", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Vite", "Docker"],
-  architectureStyle: "Clean Architecture, Event-Driven & Scalable REST APIs",
-  interests: ["Cloud Systems", "AI Workflows", "Architecture Performance"]
+  methodology: ["Spec-Driven Development (SDD)", "Domain-Driven Design (DDD)", "AI-Assisted Software Engineering"],
+  primaryFocus: ["Hexagonal Architecture & Spring Boot Microservices", "Modern Full-Stack Applications"],
+  coreStack: ["Java 21", "Spring Boot 3", "PostgreSQL", "TypeScript", "Angular", "Next.js", "Astro", "Docker"],
+  architectureStyle: "Hexagonal Architecture (Ports & Adapters), DDD, Clean Architecture & Event-Driven",
+  interests: ["Software Architecture", "Virtual Threads (Project Loom)", "Cloud Systems", "AI Workflows"]
 };
 ```
 
@@ -76,6 +76,7 @@ const engineer = {
 
 | Proyecto | Descripción | Stack Principal |
 | :--- | :--- | :--- |
+| 🏛️ [**Arquitectura Hexagonal & Java 21**](https://github.com/paulollito29-sketch/curso-arquitectura-hexagonal-java21) | Curso y proyecto de referencia enterprise: Ports & Adapters, DDD, Records, Sealed Interfaces, Virtual Threads y ArchUnit. | `Java 21` `Spring Boot 3` `ArchUnit` `PostgreSQL` |
 | 🌿 [**EcoCommute**](https://github.com/paulollito29-sketch/green-commute) | Plataforma de movilidad sostenible, cálculo de huella de carbono $CO_2$, rutas inteligentes y gamificación. | `Java` `Spring Boot` `Leaflet` `GCP` |
 | 🛍️ [**Trazzo**](https://github.com/paulollito29-sketch/trazzo) | Marketplace de confección textil B2B y B2C con arquitectura ultrarrápida. | `Astro` `Tailwind CSS` `TypeScript` |
 | 🛒 [**Vault Vintage (Backend)**](https://github.com/paulollito29-sketch/la-cachina-online-backend) | API REST para comercio electrónico con gestión de catálogo, pedidos y persistencia. | `Spring Boot` `MariaDB` `Java` |
